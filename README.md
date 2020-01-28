@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-**NOTE:**Not done. :c
+**NOTE: Not done. :c**
 
 Here's a walkthrough of implemented user stories:
 
